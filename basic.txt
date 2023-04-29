@@ -1,2 +1,4 @@
+How to push packages into artifactory:
+
 login into npm 
 npm publish 
