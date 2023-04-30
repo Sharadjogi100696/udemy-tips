@@ -1,4 +1,27 @@
+
+NPM Tips
+-------------------------------------------------------
 How to push packages into artifactory:
 
 login into npm 
 npm publish 
+-------------------------------------------------------
+
+
+Mac Terminal Tips
+-------------------------------------------------------
+pwd --> print working directory
+ls --> list items
+cd ~ --> root directory
+mkdir --> make directory
+touch index.html --> creates new file
+rm index.html --> removes files
+rmdir --> delets directory
+man rm --> manual for rm
+
+GIT Tips
+-------------------------------------------------------
+
+git switch
+git status
+git checkout commitId
